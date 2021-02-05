@@ -19,8 +19,10 @@ Also interested on NodeJS and PHP ecosystems.
 
 ## Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermaosales&layout=compact&count_private=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=guilhermaosales&count_privatetrue&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermaosales&layout=compact&count_private=true)
+
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=guilhermaosales)
 
 
