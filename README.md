@@ -1,6 +1,6 @@
 # Hi, bud! :wave:
 
-My name is Guilherme Sales. Currently working on [tamojuno](https://www.github.com/tamojuno) and focusing on fullstack development with Java. 
+My name is Guilherme Sales. Currently working on [Contabilizei.](https://www.github.com/contabilizei) and focusing on fullstack development with Java. 
 
 Let's [connect](https://www.linkedin.com/in/guilhermewrsales)!  
 
@@ -12,10 +12,10 @@ Let's [connect](https://www.linkedin.com/in/guilhermewrsales)!
 
 Working mainly with **Java**, I'm now improving my **JavaScript**. 
 
-I'm a huge documentation enthusiastic. Check it out below:
+I'm a huge documentation enthusiastic. Check it out my recent project below:
 https://dev.juno.com.br/api/
 
-Also interested on NodeJS and PHP ecosystems.
+Also interested on NodeJS ecosystem.
 
 ## Analytics
 
