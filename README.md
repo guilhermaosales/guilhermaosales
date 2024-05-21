@@ -1,6 +1,6 @@
 # Hi, bud! :wave:
 
-My name is Guilherme Sales. Currently working on [Inter](https://www.bancointer.com.br/) and focusing on fullstack development with Java. 
+My name is Guilherme Sales. Currently working on [Wiley](https://onlinelibrary.wiley.com/) and focusing on fullstack development with Java. 
 
 Let's [connect](https://www.linkedin.com/in/guilhermewrsales)!  
 
